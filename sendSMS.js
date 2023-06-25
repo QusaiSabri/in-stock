@@ -3,7 +3,7 @@ var unirest = require('unirest');
 var req = unirest('POST', 'https://d7sms.p.rapidapi.com/secure/send');
 
 req.headers({
-  authorization: 'Basic dXhyYjM5MTk6RUg3MEpyTk4=',
+  authorization: 'Basic XXXXXXX',
   'x-rapidapi-host': 'RAPIDAPI-HOST',
   'x-rapidapi-key': 'RAPIDAPI-KEY',
   'content-type': 'application/json',
