@@ -1,0 +1,15 @@
+{
+  "name": "In-Stock-Notification",
+  "version": "1.0.0",
+  "description": "Send A Notification When An Item Is In Stock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qusai Sabri",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1",
+    "unirest": "^0.6.0"
+  }
+}
